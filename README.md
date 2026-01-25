@@ -32,7 +32,7 @@ https://www.kaggle.com/gti-upm/leapgestrecog
 
 1️⃣ Clone Repository
 
-git clone https://github.com/your-username/hand-gesture-recognition.git
+git clone https://github.com/Hrutik0555/PRODIGY_ML_04.git
 
 cd hand-gesture-recognition
 
